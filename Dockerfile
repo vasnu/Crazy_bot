@@ -30,4 +30,4 @@ WORKDIR /CrazyURL
 
 COPY start.sh /start.sh
 
-CMD ["python", "bot.py"]
+CMD ["python3", "bot.py"]
